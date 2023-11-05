@@ -1,0 +1,16 @@
+body{
+    background: rgb(240,233,93);
+    background: linear-gradient(90deg, rgba(240,233,93,1) 0%, rgba(235,113,83,1) 90%); 
+    
+}
+#su{
+    background-color:red;
+    color: yellow;
+    text-align:center ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#okokok{
+    width:400px;
+    height:500px;
+}
